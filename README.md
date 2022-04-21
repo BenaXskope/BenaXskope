@@ -6,5 +6,4 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript, Python</code>
 <code>📦 Tech stack: Javascript, Typescript, Vue.js (2/3), Webpack, Python, Django</code>
-<code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@benax_se](https://telegram.me/benax_se)</code>
