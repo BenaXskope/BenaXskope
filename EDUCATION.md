@@ -1,4 +1,4 @@
 # Education
 
-- Kiev Polytechnic Institute
+- Moscow Institute of Electronic Technologies
 - Metarhia free educational program
